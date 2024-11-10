@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9D32F09D-F392-433B-82E7-EE4D2348E678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "src\OrderService\OrderService.csproj", "{6CC42157-16FC-484D-B8DE-E24AB8B4ECA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC42157-16FC-484D-B8DE-E24AB8B4ECA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC42157-16FC-484D-B8DE-E24AB8B4ECA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC42157-16FC-484D-B8DE-E24AB8B4ECA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC42157-16FC-484D-B8DE-E24AB8B4ECA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6CC42157-16FC-484D-B8DE-E24AB8B4ECA0} = {9D32F09D-F392-433B-82E7-EE4D2348E678}
+	EndGlobalSection
+EndGlobal
